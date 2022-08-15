@@ -1,3 +1,19 @@
+# Bespoke Creations Style Guides
+
+You will find this project published at https://bespoke-creations.github.io/styleguides/
+
+As a rule, we adopt the Google Style Guides below for various languages. The most pertinent:
+
+* [Python Style Guide][py]
+* [HTML/CSS Style Guide][htmlcss]
+* [JavaScript Style Guide][js]
+* [TypeScript Style Guide][ts]
+* [Shell Style Guide][sh]
+
+In addition, we use the [Semantic Versioning][semver] guidelines for versioning.
+
+Finally, we use clickup to track sprints and link our commits to clickup issues: 
+
 # Google Style Guides
 
 Every major open-source project has its own style guide: a set of conventions
