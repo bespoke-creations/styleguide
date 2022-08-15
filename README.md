@@ -1,6 +1,7 @@
 # Bespoke Creations Style Guides
 
-You will find this project published at https://bespoke-creations.github.io/styleguides/
+You will find this project published at
+[https://bespoke-creations.github.io/styleguides/](https://bespoke-creations.github.io/styleguides/)
 
 As a rule, we adopt the Google Style Guides below for various languages. The most pertinent:
 
@@ -10,9 +11,15 @@ As a rule, we adopt the Google Style Guides below for various languages. The mos
 * [TypeScript Style Guide][ts]
 * [Shell Style Guide][sh]
 
-In addition, we use the [Semantic Versioning][semver] guidelines for versioning.
+In addition, we use the following:
 
-Finally, we use clickup to track sprints and link our commits to clickup issues: 
+* [Forking Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow) in github.
+* [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for commit messages.
+* [Clickup Github](https://help.clickup.com/hc/en-us/articles/6305771568791-GitHub) for linking code to issues.
+* [Semantic Versioning](https://semver.org/) guidelines for versioning.
+* [Loom PR Commentary](https://loom.com) to help reviewers understand what you've done as they review your code.
+
+Code reviews are done by the team then a final check is done by the project's lead developer.
 
 # Google Style Guides
 
