@@ -1,7 +1,7 @@
 # Bespoke Creations Style Guides
 
 You will find this project published at
-[https://bespoke-creations.github.io/styleguides/](https://bespoke-creations.github.io/styleguides/)
+[https://bespoke-creations.github.io/styleguide/](https://bespoke-creations.github.io/styleguide/)
 
 As a rule, we adopt the Google Style Guides below for various languages. The most pertinent:
 
